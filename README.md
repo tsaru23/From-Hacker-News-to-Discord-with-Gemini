@@ -14,8 +14,8 @@
 
 ### 1. 環境構築
 ```bash
-git clone https://github.com/YOUR_USERNAME/daily-task-automation-public.git
-cd daily-task-automation-public
+git clone https://github.com/YOUR_USERNAME/From-Hacker-News-to-Discord-with-Gemini.git
+cd From-Hacker-News-to-Discord-with-Gemini
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
