@@ -1,0 +1,7 @@
+google-generativeai
+playwright
+pydantic
+pyyaml
+python-dotenv
+beautifulsoup4
+httpx
