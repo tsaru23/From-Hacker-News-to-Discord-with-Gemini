@@ -1,0 +1,30 @@
+# 日常タスクオートメーション設定ファイル
+
+# 全体設定
+general:
+  log_level: INFO
+  output_format: markdown # markdown, json
+  summary_destination: data/summaries
+
+# ニュース収集設定
+news:
+  hacker_news:
+    enabled: true
+    top_n: 10
+  x_twitter:
+    enabled: false # スクレイピングが必要なため初期は無効
+    keywords: ["AI", "Programming", "Market"]
+  custom_feeds:
+    - name: "Google AI Blog"
+      url: "https://blog.google/technology/ai/"
+
+# メール設定
+email:
+  enabled: false
+  provider: gmail # gmail, outlook
+  check_interval_minutes: 60
+
+# カレンダー設定
+calendar:
+  enabled: false
+  provider: google
