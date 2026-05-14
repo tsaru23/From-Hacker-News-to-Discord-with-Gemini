@@ -1,4 +1,4 @@
-# Daily Task Automation (Public Version)
+# From-Hacker-News-to-Discord-with-Gemini
 
 [日本語版はこちら](#日本語版)
 
