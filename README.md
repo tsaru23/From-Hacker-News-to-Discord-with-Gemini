@@ -1,4 +1,4 @@
-# Daily Task Automation (Public Version)
+# From Hacker News to Discord with Gemini
 
 ## 概要
 このリポジトリは、LLM（大規模言語モデル）エージェントを活用して、日々の情報収集やタスク管理を効率化するためのPythonベースの自動化フレームワークです。
